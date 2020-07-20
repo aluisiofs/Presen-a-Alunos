@@ -1,4 +1,3 @@
-# Presenca Alunos
 function estavaPresenteNaAula(nomeDoAluno,nomeDosPresentes)
 }
 if(nomeDosPresentes.indexOf('matheus Ferreira')){
